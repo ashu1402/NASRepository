@@ -1,0 +1,10 @@
+Building file: ../src/XMLParser.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/lib/arm-linux-gnueabihf/glib-2.0/include -I../cpgf/include/cpgf -I../cpgf/include -I../src -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/gdk-pixbuf-2.0 -I/usr/local/lib/gstreamer-1.0/include -I/usr/local/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/local/include/opencv -I/usr/include/mysql -I../gsoap/include -I../include -I../source -I../onvifgen/include -I../inc -I/usr/local/include -I/usr/include -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/XMLParser.d" -MT"src/XMLParser.d" -o "src/XMLParser.o" "../src/XMLParser.cpp"
+Building file: ../src/XMLParser.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/lib/arm-linux-gnueabihf/glib-2.0/include -I../cpgf/include/cpgf -I../cpgf/include -I../src -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/gdk-pixbuf-2.0 -I/usr/local/lib/gstreamer-1.0/include -I/usr/local/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/local/include/opencv -I/usr/include/mysql -I../gsoap/include -I../include -I../source -I../onvifgen/include -I../inc -I/usr/local/include -I/usr/include -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/XMLParser.d" -MT"src/XMLParser.d" -o "src/XMLParser.o" "../src/XMLParser.cpp"
+Building file: ../src/XMLParser.cpp
+Invoking: GCC C++ Compiler
+g++ -I/usr/lib/arm-linux-gnueabihf/glib-2.0/include -I../cpgf/include/cpgf -I../cpgf/include -I../src -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/gdk-pixbuf-2.0 -I/usr/local/lib/gstreamer-1.0/include -I/usr/local/include/gstreamer-1.0 -I/usr/include/glib-2.0 -I/usr/local/include/opencv -I/usr/include/mysql -I../gsoap/include -I../include -I../source -I../onvifgen/include -I../inc -I/usr/local/include -I/usr/include -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/XMLParser.d" -MT"src/XMLParser.d" -o "src/XMLParser.o" "../src/XMLParser.cpp"
+make: Nothing to be done for `all'.
